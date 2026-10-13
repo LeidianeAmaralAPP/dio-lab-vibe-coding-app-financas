@@ -2,7 +2,7 @@
 
 PRD refinado no Copilot Web: 
 
-# My Money Pal
+# My  Money  Pal
 
 Aplicativo de organização financeira pessoal desenvolvido utilizando Vibe Coding com Lovable.
 
